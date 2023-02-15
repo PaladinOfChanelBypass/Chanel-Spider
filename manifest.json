@@ -3,7 +3,7 @@
   "name": "Chanel Spider",
   "version": "1.0",
   "action": {
-    "default_popup": "BLANK.html",
+    "default_popup": "ActivateDeactivate.html",
     "default_icon": "New Piskel-1.png (3).png"
   }
 }
